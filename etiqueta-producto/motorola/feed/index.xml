@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>motorola &#8211; lo</title>
+	<atom:link href="/etiqueta-producto/motorola/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Oct 2023 03:06:19 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/logo1.png</url>
+	<title>motorola &#8211; lo</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Motorola Moto E20 &#8211; Smartphone 32GB, 2GB RAM, Dual Sim, Graphite Grey</title>
+		<link>/producto/motorola-moto-e20-smartphone-32gb-2gb-ram-dual-sim-graphite-grey/</link>
+					<comments>/producto/motorola-moto-e20-smartphone-32gb-2gb-ram-dual-sim-graphite-grey/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 19 Oct 2023 03:06:19 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=77</guid>
+
+					<description><![CDATA[Pantalla: 6.5&#8243;, 720 x 1600 pixels Procesador: Unisoc T606 1.6GHz RAM: 2GB Almacenamiento: 32GB Expansión: microSD Cámara: Dual, 13MP+2MP]]></description>
+										<content:encoded><![CDATA[<ul class="fa-ul">
+<li><span title="Pantalla y resolución" data-toggle="tooltip"><strong>Pantalla: 6.5&#8243;, 720 x 1600 pixels</strong></span></li>
+<li><span title="Procesador" data-toggle="tooltip"><i class="fa-li fa fa-tachometer"></i><strong>Procesador: Unisoc T606 1.6GHz</strong></span></li>
+<li><span title="Memoria RAM" data-toggle="tooltip"><i class="fa-li fa fa-cogs"></i><strong>RAM: 2GB</strong></span></li>
+<li><span title="Almacenamiento" data-toggle="tooltip"><i class="fa-li fa fa-microchip"></i><strong>Almacenamiento: 32GB</strong></span></li>
+<li><span title="Expansión de memoria" data-toggle="tooltip"><i class="fa-li fa fa-archive"></i><strong>Expansión: microSD</strong></span></li>
+<li><span title="Cámara" data-toggle="tooltip"><i class="fa-li fa fa-camera"></i><strong>Cámara: Dual, 13MP+2MP</strong></span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/motorola-moto-e20-smartphone-32gb-2gb-ram-dual-sim-graphite-grey/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

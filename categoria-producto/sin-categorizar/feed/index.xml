@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Sin categorizar &#8211; lo</title>
+	<atom:link href="/categoria-producto/sin-categorizar/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Oct 2023 03:14:57 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/logo1.png</url>
+	<title>Sin categorizar &#8211; lo</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>JETech Protector de Pantalla para iPhone 12 y iPhone 12 Pro 6,1 Pulgadas, Mica de Cristal Vidrio Templado, 3 Unidades</title>
+		<link>/producto/jetech-protector-de-pantalla-para-iphone-12-y-iphone-12-pro-61-pulgadas-mica-de-cristal-vidrio-templado-3-unidades/</link>
+					<comments>/producto/jetech-protector-de-pantalla-para-iphone-12-y-iphone-12-pro-61-pulgadas-mica-de-cristal-vidrio-templado-3-unidades/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 19 Oct 2023 03:14:57 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=81</guid>
+
+					<description><![CDATA[[Compatibilidad] Diseñado para iPhone 12 / 12 Pro 6,1 pulgadas. Se adapta perfectamente a su teléfono [Protección confiable] Construido con vidrio templado de alta calidad. Protege la pantalla de arañazos y desgaste diario. Dureza 9H [Alta transparencia] 0,33 mm ultrafino. Alta claridad, alta transparencia y alta respuesta. Asegura el origen de la belleza de la [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
+<li class="a-spacing-mini"><span class="a-list-item">[Compatibilidad] Diseñado para iPhone 12 / 12 Pro 6,1 pulgadas. Se adapta perfectamente a su teléfono</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">[Protección confiable] Construido con vidrio templado de alta calidad. Protege la pantalla de arañazos y desgaste diario. Dureza 9H</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">[Alta transparencia] 0,33 mm ultrafino. Alta claridad, alta transparencia y alta respuesta. Asegura el origen de la belleza de la pantalla</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">[Diseño fácil de usar] Fácil de instalar. Libre de burbujas, resistente al agua, antihuellas y antipolvo</span></li>
+<li class="a-spacing-mini"><span class="a-list-item">[Excelente servicio postventa] El paquete incluye: JETech protector de pantalla de vidrio templado*3, kits de limpieza, instrucciones</span></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/jetech-protector-de-pantalla-para-iphone-12-y-iphone-12-pro-61-pulgadas-mica-de-cristal-vidrio-templado-3-unidades/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

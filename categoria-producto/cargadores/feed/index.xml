@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Cargadores &#8211; lo</title>
+	<atom:link href="/categoria-producto/cargadores/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Oct 2023 03:10:01 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/logo1.png</url>
+	<title>Cargadores &#8211; lo</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Soporte con Cargador Inalámbric Select Power 10 W Negro</title>
+		<link>/producto/soporte-con-cargador-inalambric-select-power-10-w-negro/</link>
+					<comments>/producto/soporte-con-cargador-inalambric-select-power-10-w-negro/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 19 Oct 2023 03:10:00 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=79</guid>
+
+					<description><![CDATA[Nombre: Soporte con Cargador Inalámbric Select Power 10 W Modelo: HO2-SPW Color: Negro Cantidad: 1 pieza Especificaciones: Función 2 en 1 &#8211; cargador inalámbrico y soporte de teléfono / Tecnología Qi con dispositivos compatibles / Carga de alta velocidad (2 A) / Ajustable a las ventilas del tablero del auto / Gira 360° / Incluye [&#8230;]]]></description>
+										<content:encoded><![CDATA[<table id="parrafo4Des" class="cnt-espesificaciones">
+<tbody>
+<tr class="col-xs-12 sin-padding cnt-espesificaciones-item">
+<td class="cnt-title-grisOD grisOD">Nombre:</td>
+<td class="cnt-title-textCaracteristicas textCaracteristicas">Soporte con Cargador Inalámbric Select Power 10 W</td>
+</tr>
+<tr class="col-xs-12 sin-padding cnt-espesificaciones-item">
+<td class="cnt-title-grisOD grisOD">Modelo:</td>
+<td class="cnt-title-textCaracteristicas textCaracteristicas">HO2-SPW</td>
+</tr>
+<tr class="col-xs-12 sin-padding cnt-espesificaciones-item">
+<td class="cnt-title-grisOD grisOD">Color:</td>
+<td class="cnt-title-textCaracteristicas textCaracteristicas">Negro</td>
+</tr>
+<tr class="col-xs-12 sin-padding cnt-espesificaciones-item">
+<td class="cnt-title-grisOD grisOD">Cantidad:</td>
+<td class="cnt-title-textCaracteristicas textCaracteristicas">1 pieza</td>
+</tr>
+<tr id="difumina" class="col-xs-12 sin-padding cnt-espesificaciones-item col4">
+<td class="cnt-title-grisOD grisOD">Especificaciones:</td>
+<td class="cnt-title-textCaracteristicas textCaracteristicas">Función 2 en 1 &#8211; cargador inalámbrico y soporte de teléfono / Tecnología Qi con dispositivos compatibles / Carga de alta velocidad (2 A) / Ajustable a las ventilas del tablero del auto / Gira 360° / Incluye 2 imanes / Imágenes ilustrativas, no incluye Smartphone</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/soporte-con-cargador-inalambric-select-power-10-w-negro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

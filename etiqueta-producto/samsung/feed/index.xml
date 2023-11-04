@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>samsung &#8211; lo</title>
+	<atom:link href="/etiqueta-producto/samsung/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Oct 2023 02:56:43 +0000</lastBuildDate>
+	<language>es-MX</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/10/logo1.png</url>
+	<title>samsung &#8211; lo</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Samsung S23 Ultra AMOLED Desbloqueado</title>
+		<link>/producto/samsung-s23-ultra-amoled-desbloqueado/</link>
+					<comments>/producto/samsung-s23-ultra-amoled-desbloqueado/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Thu, 19 Oct 2023 02:56:42 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product#038;p=71</guid>
+
+					<description><![CDATA[Procesador: Snapdragon 8 Gen 2. Sistema operativo: Android 13. RAM: 8 GB. Almacenamiento: 128 GB, 256 GB, 512 GB. Pantalla: 6,1″ pulgadas Dynamic AMOLED 2X. Resolucion: 1080 x 2340 (Full HD+) Densidad de píxeles: 422 ppp. Cámara Principal: Triple, 50 MP + 12 MP + 10 MP.]]></description>
+										<content:encoded><![CDATA[<ul class="i8Z77e">
+<li class="TrT0Xe">Procesador: Snapdragon 8 Gen 2.</li>
+<li class="TrT0Xe">Sistema operativo: Android 13.</li>
+<li class="TrT0Xe">RAM: 8 GB.</li>
+<li class="TrT0Xe">Almacenamiento: 128 GB, 256 GB, 512 GB.</li>
+<li class="TrT0Xe">Pantalla: 6,1″ pulgadas Dynamic AMOLED 2X.</li>
+<li class="TrT0Xe">Resolucion: 1080 x 2340 (Full HD+)</li>
+<li class="TrT0Xe">Densidad de píxeles: 422 ppp.</li>
+<li class="TrT0Xe">Cámara Principal: Triple, 50 MP + 12 MP + 10 MP.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/samsung-s23-ultra-amoled-desbloqueado/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
